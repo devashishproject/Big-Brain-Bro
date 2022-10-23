@@ -169,6 +169,7 @@ int main() {
                 erasee(sz);
                 if (!check(head)) {
                     printf("incorrect deleteAtEnd");
+                    printf("incorrect deleteEnd")
                     return 0;
                 }
             }
